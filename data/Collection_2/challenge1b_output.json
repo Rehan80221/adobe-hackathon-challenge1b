@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-25T16:16:44.485153",
+    "total_sections_analyzed": 20,
+    "total_subsections_generated": 15
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "If prompted, enter your user name and password to log in to the Adobe LiveCycleRights Management Server. Create a PDF and send it for review 1. Open the file in the application used to create it. 2. Click the Convert To Adobe PDF And Send For Review button on the Acrobat PDFMaker toolbar, or (if available) choose Adobe PDF Convert To Adobe PDF And Send For Review . 3. When the Identity Setup dialog box appears, enter the appropriate information about yourself, and click Complete. 4. Follow the directions in the wizard that appears, as described in Start an email- based review . Create a PDF and run an action 1. Open the file in the application used to create it. 2. Click the Convert To Adobe PDF And Run Action button on the Acrobat PDFMaker toolbar, or (if available) choose Adobe PDF Convert To Adobe PDF And Run Action . For Microsoft Office 2010 applications such as Word, Excel, and PowerPoint, click the Create PDF And Run Action button on the Acrobat ribbon. 3. Click an action to from the button menu, and follow the onscreen prompts to save the files. 4. The PDF opens in Acrobat. Click Start in the right- hand pane to process the file.",
+      "importance_rank": 1,
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "When the Browse For Folder dialog box appears, navigate to the location you want to use and click OK. Status indicators appear as PDFMaker generates the individual PDFs, 6. If you selected Automatically Send Adobe PDF Files By Email , a dialog box appears asking for your email profile. Enter the appropriate information and click OK. When the job has finished, a message appears, telling you that the process was successful. Email options for PDF mail merges To Use the pop -up menu to select the field or column in the associated data file that contains the email addresses in each individual s rec ord. Subject Line Type the text that you want to appear in the subject line of each message. Message Type to add or edit text that you want to appear in the body of the email messages.",
+      "importance_rank": 2,
+      "page_number": 28
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Prepare the Agreement and Add Fields: You can now add any necessary fields to the agreement. Remember that a Signature field must be placed for each signer (including internal counter -singers). There are two methods to apply fields: 1. Simple Authoring is loaded by default in most instances. Simple authoring: Is limited to the most common types of fields: Text input (All Text fields are flagged as Required) Signature Signer s name (Printed) Signer s email Signature date (Read -Only; Supplied by the system) Checkbox Places fields anywhere you click on the document. Allows resizing of fields by clicking the bottom right corner of the field (blue triangle) and dragging the field to size. 2. Advanced Authoring can be enabled by selecting the toggle in the upper right corner. Advanced authoring: Allows access to all field types (highlighted in yellow) Supports form field detection (highlighted in green) Supports Prefill fields (highlighted in pink) Supports field assignment (highlighted in purple and pink) Supports field validation",
+      "importance_rank": 3,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "If you ve selected, Certify (visible signatures) in step 2, use the mouse to drag and draw a rectangle area where you want your signature to appear. 5. In the Sign with a Digital ID dialog box, choose the Digital ID you want to use for certifying the document and select Continue , or select Configure New Digital ID to create a new ID. 6. Select Review to review the document content before signing, then sel ect Sign. Save the PDF when prompted. Your document is now certified. Certifying and signing documents The Use a certificate tool lets you apply two types of certificate-based signatures. You can Certify a document, attest to its content or approve a document with the Digitally sign option. Digitally sign When you Digitally sign with a certificate, the signature is considered an approval signature. Certify (visible or invisible signatures)",
+      "importance_rank": 4,
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "To add a blank page to an existing PDF, open the PDF and then choose Edit Organize pages Insert Blank page . Create multiple PDFs from multiple files You can create multiple PDFs from multiple native files, including files of different supported formats, in one operation. This method is useful when you must convert a large number of files to PDF. Note : When you use this method, Acrobat applies the most recently used conversion settings without offering you access to those settings. If you want to adjust the conversion settings, do so before using this method. 1. In Acrobat, select Create from the global bar. 2. The Create a PDF tool opens. On the le rail, select Mul ple ﬁles Create mul ple PDF ﬁles , and then select Next . 3. Choose Add Files Add Files or Add Folders , and then select the ﬁles or folder. 4. Select OK. The Output op ons dialog box appears. 5. In the Output Op ons dialog box, specify your target folder and ﬁlename preferences, and then select OK. Using PDFMaker within an authoring application is a simple, one -click procedure. It involves clicking an Acrobat PDFMaker toolbar button or choosing a command on the Adobe PDF menu. About A crobat PDFMaker PDFMaker is an Acrobat feature that operates within many business applications, such as Microsoft Office applications, AutoCAD, and Lotus Notes. When you install Acrobat, PDFMaker controls appear in the work area of the authoring applicatio n. Note: Some PDFMaker features are not available in certain versions of the authoring applications. For a comparison chart, see Compatible web browsers and PDFMaker applications Acrobat, Reader .",
+      "importance_rank": 5,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "In the Auto -Complete Entry List dialog box, do one of the following, and then select Yes to confirm: To remove all entries, select Remove All. To remove some of the entries, select the entries and click Remove . (Shift - select to select multiple adjacent entries; Ctrl -select to select multiple nonadjacent entries.)",
+      "importance_rank": 6,
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "For PDF Portfolios of email converted or migrated in Acrobat 8 or later, only new messages that is, messages that are not already part of the PDF Portfolio are appended. Convert email folders to a new PDF PDFMaker can convert multiple folders to PDF in one procedure. It is not necessary to select the folders at the beginning of the process because you can select them in a dialog box that appears automatically. 1. Do one of the following: (Outlook) Choose Acrobat Selected Folders Create New PDF. (Lotus Notes) Choose Actions Convert Selected Folder(s) To Adobe PDF. 2. In the Convert Folder(s) To PDF dialog box, select the folders. Then select or deselect the Convert This Folder And All Sub Folders option. 3. In the Save Adobe PDF File As, select a location and name for the PDF Portfolio . When the conversion is complete, the new PDF opens in Acrobat.",
+      "importance_rank": 7,
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "You can right -click a signature field in the Signatures panel to do most signature- related tasks, including adding, clearing, and validating signatures. In some cases, however, the signature field becomes locked after you sign it. Sign in preview mode for document integrity When document integrity is critical for your signature workflow, you can enable View documents in Preview mode , and then sign the document. This feature analyzes the document for content that may alter the look and feel of the document and suppresses such content to allow you to view and sign the document in a static and secure state. By signing in preview mode, you ca n find if the document contains: Any dynamic content or external dependencies. Any constructs such as form fields, multimedia, or JavaScript that may affect its look and feel. After reviewing the report, you can contact the author of the document about the problems listed in the report. Certify a PDF Certifying a PDF means approving its contents and specifying what changes are allowed for the document to remain certified. For example, a government agency creates a form with signature fields and certifies it, allowing users to only change form fields and sign the document. Removing pages or adding comments will result in losing the certified status. A certifying signature can only be applied if the PDF has no other signatures. These signatures can be visible or invisible, and a blue ribbon icon in the Signatures panel confirms a valid certifying signature. Adding a certifying digital signature requires a digital ID. Timestamp a document Acrobat allows users to add a document timestamp to a PDF without n eeding an identity - based signature. To timestamp a PDF, a timestamp server is needed. See how to configure a timestamp server . A timestamp guarantees the authenticity and existence of a document at a specific time and complies with ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) standard. Validate a digital signature",
+      "importance_rank": 8,
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Overview of generative AI features Use the generative AI features in Acrobat and Acrobat Reader to quickly scan through lengthy, complex PDF content and get answers or generate a summary. Note: The generative AI features in Acrobat and Acrobat Reader support English, French, German, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms, review Adobe s Generative AI User Guidelines. To understand Adobe s data handling practices, see Content usage and handling practices . The AI -powered features in Acrobat and Acrobat Reader support multiple document types, including PDFs, DOCX, PPTX, TXT, and RTF files. AI Assistant supports Microsoft Teams and Zoom meeting transcripts. The capabilities improve comprehension and save time across various document types. AI Assistant quickly gets answers to your questions based on your documents in a comprehensive and informative way. It can analyze mul tiple documents to uncover similarities, differences, and key patterns. With AI Assistant, you can make targeted requests, such as highlighting the differences between PDF contracts. It links to text and data table sources within the document. It also sugg ests follow -up questions for you based on the primary question. AI Assistant uses the latest AI language model, GPT 4o, to provide more accurate and clear answers to your queries based on more citations. It can extract information accurately from tables an d complex documents. Generative summary automatically provides an outline with headings and summaries to highlight key points in the document. The feature generates key insights that help you easily comprehend the PDF content. For a speedier response, it processes PDF content in chunks and simultaneously streams summaries. You can access the generative AI features in Adobe Acrobat Reader, Adobe Acrobat desktop on both Windows and macOS, on Acrobat online, and within Acrobat extensions for Google",
+      "importance_rank": 9,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Enter the email addresses of the recipients or cho ose from the Address Book. 4. Enter a message to the recipients (optional). Initiate a review using mention in a PDF Use mention in your personal commenting notes to start a review. The mentions includes your organizational contacts and your synced personal contacts list. The moment you use mention in a PDF file, the review mode gets enabled for you. The reviewers get an invitation email with a link to the Document Cloud shared review file. Reviewer experience The reviewers receive an email invita tion with a link to the review PDF. When they click the link or the Open button in the invitation, the PDF opens in a web browser. They can use the commenting tools to add comments to the PDF. They can also use Acrobat Reader or Acrobat desktop application s to add comments. Hosting a shared review on SharePoint or Office 365 Shared reviews are the most collaborative form of review because participants can read and reply to the comments of other participants. Comments from participants are stored in a repository on an internal server. Acrobat synchronizes comments at regular intervals to",
+      "importance_rank": 10,
+      "page_number": 12
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Note: You can switch between Simple and Advanced mode by selecting the Advanced editing (on  off) toggle in the upper -right corner. 10",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Supports calculated fields   Supports conditional fields   Allows control of the field text font appearance   Places fields by dragging them from the menu on the right side of the document",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Select Next (in the top -right corner) after all the fields have been placed. 11. Review and Send Review the agreement information and Send if everything is correct",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Allows resizing of fields by clicking the bottom right corner of the field (blue triangle) and dragging the field to size",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "If a document has already been signed, the Certify options are disabled. When you certify a document, you can control the types of changes ot her people can make",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "This option is compliant with Part 3 of the PAdES standard",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "The default signing format, when set up accordingly, is compliant with Part 2 of the PAdES stan dard",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Get a digital ID from your own organization, buy a digital ID (see the Adobe website for security partners), or create a self -signed one. See Create a self-signed digital ID",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Setting up certificate- based signatures You can expedite the signing process and optimize your resul ts by making the following preparations in advance",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Certify options provide a higher level of document control than Digitally sign. For documents that require certification, you must certify the documents before others sign them",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Th e timestamp capability and native support for long -term validation of signatures (introduced in Acrobat 9.1) is in compliance with Part 4 of the PAdES standard",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Inquire about the digital signature policies of your organization to determine the appropriate source of your digital ID",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "The file converts to an Adobe PDF file, and an email- based review process begins. 4. If you want to include the custom properties of shapes, select that option. 5. Click Continue. 6",
+      "page_number": 28
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Signatures made with the Certify or Digitally sign options comply with data protection standards specified by the European Telecommunications Standards Institute (ETSI)",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "In additi on, both signature types comply with the PDF Advanced Electronic Signature (PAdES) standard. Acrobat and Acrobat Reader provide an option to change the default signing format to a CAdES format",
+      "page_number": 23
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-25T16:16:24.903806",
+    "total_sections_analyzed": 14,
+    "total_subsections_generated": 15
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "The weather can vary, so pack layers to stay comfortable in diﬀerent temperatures. Versatile Clothing: Choose items that can be mixed and matched to create multiple outfits, helping you pack lighter. Packing Cubes: Use packing cubes to organize your c lothes and maximize suitcase space. Roll Your Clothes: Rolling clothes saves space and reduces wrinkles. Travel -Sized Toiletries: Bring travel -sized toiletries to save space and comply with airline regulations. Reusable Bags: Pack a few reusable bags for l aundry, shoes, or shopping. First Aid Kit: Include a small first aid kit with band- aids, antiseptic wipes, and any necessary medications. Copies of Important Documents: Make copies of your passport, travel insurance, and other important documents. Keep them separate from the originals. Portable Laundry Kit: A small laundry kit with detergent and a travel clothesline can be handy for longer trips. Multi -Purpose Shoes: Choose shoes that are comfortable for walking but can also be worn to a nice dinner. Travel Pillow and Blanket: A compact travel pillow and blanket can make long flights or train rides more comfortable. Ziplock Bags: Use ziplock bags for liquids, snacks, or to keep items organized and protected from spills. Emergency Contact List: Have a list of emergency contacts, including local embassy or consulate information.",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "The Jewel of the French Riviera History Nice, located on the French Riviera, has been a popular destination for centuries. Its history dates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a Roman colony and has since evolved into a glamorous resort town. In the 19th century, Nice became a favorite winter retreat for European aristocrats, which contributed to its development as a luxurious destination. Key Attractions Promenade des Anglais : This famous seaside promenade, built in the 19th century, is perfect for a leisurely stroll along the coast. It oﬀers stunning views of the Mediterranean and is lined with cafes and hotels. Castle Hill (Colline du Château): This hilltop park oﬀers panoramic views of Nice and the Mediterranean. It was once the site of a medieval castle, which was destroyed in the 18th century. Old Town (Vieux Nice) : The historic center of Nice is a labyrinth of narrow streets, baroque churches, and bustling markets. Don t miss the Cours Saleya market, where you can find fresh produce, flowers, and local delicacies. Matisse Museum : Dedicated to the works of Henri Matisse, who spent much of his life in Nice, this museum features a comprehensive collection of his paintings, sculptures, and drawings. Hidden Gems Russian Orthodox Cathedral : Visit the stunning Russian Orthodox Cathedral, a unique architectural gem in Nice. Marc Chagall National Museum : Explore the works of Marc Chagall at this dedicated museum. Parc Phoenix : Discover the botanical wonders at Parc Phoenix, a beautiful garden and park. Cultural Highlights Nice is renowned for its vibrant cultural scene, with numerous museums, galleries, and theaters. The city hosts the Nice Carnival in February, one of the largest and oldest carnivals in the world. The Nice Jazz Festival, held in July, is another major event that attracts music",
+      "importance_rank": 2,
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "The City of Popes History Avignon, located on the banks of the Rhône River, is best known for its role as the seat of the papacy in the 14th century. The city was home to seven popes during this period, leaving a lasting legacy of impressive architecture and cultural heritage. Avignon s history date s back to Roman times, and it has been a significant religious and cultural center for centuries. Key Attractions Palais des Papes : This massive Gothic palace was the residence of the popes during their stay in Avignon. It is one of the largest and most im portant medieval Gothic buildings in Europe. Pont Saint -Bénézet (Pont d Avignon): This famous bridge, immortalized in the song Sur le Pont d Avignon, was built in the 12th century. Although only a few arches remain, it is a UNESCO World Heritage site. Avignon Cathedral : Located next to the Palais des Papes, this Romanesque cathedral dates back to the 12th century and features a gilded statue of the Virgin Mary. Place de l Horloge : The main square in Avignon, this lively area is surrounded by cafes, restau rants, and historic buildings, including the 19th -century town hall and opera house. Cultural Activities Opéra Grand Avignon : Attend a performance at the Opéra Grand Avignon for a cultural treat. Arts Scene: Explore the city s vibrant arts scene, with numerous galleries and exhibitions. Cultural Highlights Avignon is famous for its annual Festival d Avignon, held in July, which is one of the most important contemporary performing arts events in the world. The festival features theater, dance, and music performances in various historic venues throughout the city. Avignon s cuisine is also notable, with local specialties such as truﬄes, olive oil, and wines from the surrounding vineyards.",
+      "importance_rank": 3,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "A Roman Treasure Arles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque monuments. The city was an important Roman settlement and later became a center of Christian pilgrimage. Key Historical Sites in Arles Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used for events such as bullfights and concerts. It is one of the best -preserved Roman structures in France. Church of St. Trophime: This Romanesque church, built in t he 12th century, is known for its stunning portal and cloister. It was an important stop on the pilgrimage route to Santiago de Compostela. Alyscamps: This ancient Roman necropolis, located just outside the city walls, was a major burial site in antiquity. It features a long avenue lined with sarcophagi. Thermes de Constantin: These Roman baths, built in the 4th century AD, are a testament to the city s importance during the Roman period. Van Gogh s Influence: Arles is also famous for its association with V incent van Gogh, who created over 300 works of art during his time in the city. The Van Gogh Foundation in Arles celebrates his legacy. Cryptoporticus: An underground gallery built by the Romans in the 1st century BC, it served as a foundation for the Foru m and is one of the few remaining examples of such structures.",
+      "importance_rank": 4,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Explore the Musée Océanographique and its marine exhibits, including a shark lagoon and touch tanks. Dordogne: See ancient cave paintings at prehistoric sites like Lascaux and Rouﬃgnac, and visit museums dedicated to prehistoric life. Montpellier: Discover the Planet Ocea n World, an aquarium and planetarium with interactive exhibits. Carcassonne: Take a guided tour of the medieval citadel and learn about its history and architecture. Nîmes: Visit the Roman amphitheater and learn about ancient Roman history. Arles: Explore the Roman ruins and the Musée de l Arles Antique, which showcases artifacts from the city s past.",
+      "importance_rank": 5,
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Introduction - Page",
+      "importance_rank": 6,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "The City of Popes Avignon, located on the banks of the Rhône River, is best k nown for its role as the seat of the papacy in the 14th century. The city was home to seven popes during this period, leaving a lasting legacy of impressive architecture and cultural heritage. Key Historical Sites in Avignon Palais des Papes : This massive Gothic palace was the residence of the popes during their stay in Avignon. It is one of the largest and most important medieval Gothic buildings in Europe. Pont Saint -Bénézet (Pont d Avignon): This famous bridge, immortalized in the song Sur le Pont d Avi gnon, was built in the 12th century. Although only a few arches remain, it is a UNESCO World Heritage site. Avignon Cathedral : Located next to the Palais des Papes, this Romanesque cathedral dates back to the 12th century and features a gilded statue of t he Virgin Mary. Place de l Horloge : The main square in Avignon, this lively area is surrounded by cafes, restaurants, and historic buildings, including the 19th -century town hall and opera house. Rocher des Doms : This rocky outcrop oﬀers panoramic views of the Rhône River and the surrounding countryside. It has been a strategic site since prehistoric times and now features beautiful gardens 5 . Avignon Festival : Established in 1947, the Avignon Festival is one of the most important contemporary performing arts events in the world, attracting artists and audiences from around the globe 6 .",
+      "importance_rank": 7,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Introduction - Page",
+      "importance_rank": 8,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Bouillabaisse: A traditional fish stew from Marseille, made with various types of fish, shellfish, and a flavorful broth seasoned with saﬀron and herbs. Bouillabaisse is typically served with rouille, a garlic ky mayonnaise, and crusty bread. The dish is a celebration of the sea and is best enjoyed in a seaside restaurant with a view of the Mediterranean. Ratatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes, and onions, seasoned wit h herbs de Provence. Ratatouille can be served as a main dish or as a side, and it pairs beautifully with grilled meats or fish. The dish is a testament to the region s love for fresh, seasonal produce. Salade Niçoise: A refreshing salad with tuna, hard-bo iled eggs, tomatoes, green beans, olives, and anchovies, dressed with olive oil and vinegar. Salade Niçoise is a perfect example of the Mediterranean diet, which emphasizes fresh vegetables, lean proteins, and healthy fats. It s a light yet satisfying dish that is perfect for a warm summer day. Socca: A thin, crispy pancake made from chickpea flour, olive oil, and water, typically enjoyed as a street food in Nice. Socca is cooked in a wood -fired oven and is best eaten hot, straight from the oven. It s a sim ple yet delicious snack that showcases the region s love for humble, rustic dishes. Cassoulet: A hearty casserole from the Languedoc region, made with white beans, sausage, and duck or pork. Cassoulet is a labor of love, requiring hours of slow cooking to develop its rich, complex flavors. The dish is a comforting and satisfying meal that is perfect for a chilly evening. Tarte Tropézienne: A dessert from Saint -Tropez, consisting of a brioche filled with a creamy mixture of pastry cream and butter. Tarte Tro pézienne is a sweet treat that is perfect for a special occasion or as an indulgent afternoon snack. The dessert was created by a Polish baker in the 1950s and quickly became a favorite among locals and tourists alike.",
+      "importance_rank": 9,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Introduction - Page",
+      "importance_rank": 10,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Packing for All Seasons Spring (March to May)   Clothing: Light sweaters, long -sleeve shirts, t -shirts, and a light jacket or raincoat. Footwear: Comfortable walking shoes and sandals",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Accessories: Sunglasses, a hat, and a small umbrella. Additional Tips: Spring can be unpredictable, so be prepared for both sunny and rainy days. Consider packing a lightweight scarf for cooler evenings",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Summer (June to August)   Clothing: Lightweight, breathable fabrics like cotton and linen. Pack t -shirts, shorts, sundresses, and swimwear. Footwear: Sandals, flip -flops, and comfortable walking shoes",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Accessories: Sunglasses, a wide -brimmed hat, sunscreen, and a reusable water bottle",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Addi tional Tips: The South of France can get very hot in the summer, so stay hydrated and seek shade during peak sun hours. Pack a cooling towel to help manage the heat",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Autumn (September to November)   Clothing: Light sweaters, long -sleeve shirts, t -shirts, and a medium -weight jacket. Footwear: Comfortable walking shoes and boots",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Accessories: Sunglasses, a scarf, and a small umbrella. Additional Tips: Autumn is a great time to visit vineyards and enjoy the harve st season",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Pack layers to adjust to varying temperatures throughout the day. Winter (December to February)   Clothing: Warm layers such as sweaters, long -sleeve shirts, and thermal tops",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "A heavy coat, gloves, and a hat. Footwear: Waterproof boots and comfort able walking shoes. Accessories: A scarf, sunglasses for sunny winter days, and a travel -sized hand warmer.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Nice: Try creative cocktails at Le Comptoir du Marché, a trendy bar in the old town. Cannes: Experience dining and entertainment at La Folie Douce, with live music, DJs, and performances",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Nice: Party at High Club on the Promena de des Anglais, featuring multiple dance floors and top DJs. Cannes: Enjoy the stylish setting and rooftop terrace at La Suite, oﬀering stunning views of Cannes",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Marseille: Visit Le Trolleybus, a popular bar with multiple rooms and music styles. Saint -Tropez: Relax at Bar du Port, known for its chic atmosphere and waterfront views",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Toulouse: Check out Le Purple, a trendy nightclub wi th a vibrant dance floor and top - notch DJs.",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Montpellier: Enjoy craft cocktails at Papa Doble, a s peakeasy -style bar. Toulouse: Sip on cocktails at Fat Cat, a stylish bar with a vintage vibe",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Montpellier: Dance the night away at L Antirouille, a club known for its eclectic music and lively atmosphere",
+      "page_number": 10
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-25T16:17:04.705367",
+    "total_sections_analyzed": 18,
+    "total_subsections_generated": 15
+  },
+  "extracted_sections": [
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "2 slices whole grain bread 1 2 avocado, mashed 1 2 cup chickpeas, mashed 1 4 cup cherry tomatoes, halved 1 tablespoon olive oil Salt and pepper to taste Instructions: In a bowl, combine the mashed avocado and chickpeas. Spread the mixture on one slice of bread. Top with cherry tomatoes and drizzle with olive oil. Season with salt and pepper, then top with the s econd slice of bread. Greek Salad Ingredients: 1 cup cherry tomatoes, halved 1 2 cucumber, diced 1 4 cup red onion, finely chopped 1 4 cup black olives, sliced 1 4 cup feta cheese, crumbled 2 tablespoons olive oil 1 tablespoon red wine vinegar Salt and pepper to taste Instructions: In a large bowl, combine the tomatoes, cucumber, red onion, olives, and feta cheese. Drizzle with olive oil and red wine vinegar. Season with salt and pepper, then toss to combine. Turkey and Cranberry Wrap Ingredients: 1 whole wheat tortilla 4 slices turkey breast 2 tablespoons cranberry sauce 1 2 cup baby spinach 1 4 cup shredded carrots Instructions:",
+      "importance_rank": 1,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "In a large pot, heat olive oil over medium heat. Brown chicken thighs on all sides, then set aside. Sauté onion and garlic until softened. Stir in cumin, cinnamon, and turmeric, then add chicken broth, apricots, and olives. Return chicken to the pot, cover, and simmer for 45 minutes until tender. Season with salt and pepper. Garnish with parsley and serve over couscous. Mushroom Risotto Ingredients: 1 cup Arborio rice 4 cups chicken or vegetable broth 1 small onion, diced 2 cloves garlic, minced 1 cup mushrooms, sliced 1 2 cup white wine 1 2 cup grated Parmesan cheese 2 tablespoons butter 2 tablespoons olive oil Salt and pepper to taste Chopped parsley for garnish Instructions: Heat broth in a pot and keep warm. In a large skillet, heat olive oil and 1 tablespoon butter over medium heat. Sauté onion, garlic, and mushrooms until tender. Add rice and stir for 1 -2 minutes until lightly toast ed. Pour in white wine and cook until absorbed. Add warm broth, one ladle at a time, stirring until absorbed before adding more, until rice is creamy and tender (about 20 minutes). Stir in remaining butter and Parmesan cheese, season with salt and pepper. Garnish with parsley and serve. Pulled Pork Sandwiches Ingredients: 2 pounds pork shoulder 1 small onion, sliced 2 cloves garlic, minced",
+      "importance_rank": 2,
+      "page_number": 7
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Preheat oven to 350 F (1 75 C). In a bowl, whisk together eggs, milk, salt, and pepper. Stir in cheese, sausage or bacon, bell pepper, and onion. Pour the mixture into a greased baking dish. Bake for 30 -35 minutes or until the eggs are set. Let cool slightly before serving. Bagel with Cream Cheese Ingredients: 1 bagel, sliced and toasted 2 tablespoons cream cheese Optional toppings: smoked salmon, capers, red onion, tomato slices Instructions: Spread cream cheese on each half of the toasted bagel. Add optional toppings if des ired. Serve immediately. Breakfast Skillet Ingredients: 2 large eggs 1 2 cup diced potatoes 1 4 cup diced bell pepper 1 4 cup diced onion 1 4 cup cooked sausage or bacon Salt and pepper to taste 1 tablespoon olive oil Instructions: Heat olive oil in a skillet over medium heat. Add potatoes, bell pepper, and onion, and cook until tender. Add sausage or bacon and cook until heated through. Make two wells in the mixture and crack an egg into each well. Cover and cook until the eggs are set. Season wit h salt and pepper.",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Introduction - Page",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "1 cup Greek yogurt 1 2 cup granola 1 2 cup mixed berries (strawberries, blueberries, raspberries) 1 tablespoon honey Instructions: In a bowl or jar, layer the Greek yogurt, granola, and mixed berries. Drizzle with honey. Repeat the layers if desired. Hummus and Veggie Pita Ingredients: 1 whole wheat pita bread 1 2 cup hummus 1 2 cup cucumber, sliced 1 2 cup bell pepper, sliced 1 4 cup shredded carrots 1 4 cup baby spinach Instructions: Cut the pita bread in half to create pockets. Spread hummus inside each pocket. Fill with cucumber, bell pepper, carrots, and spinach. Tuna Salad Ingredients: 1 can tuna, drained 1 4 cup mayonnaise 1 tablespoon Dijon mustard 1 celery stalk, diced 1 4 cup red onion, finely chopped Salt and pepper to taste Lettuce leaves or whole grain bread for serving Instructions: In a bowl, combine the tuna, mayonnaise, Dijon mustard, celery, and red onion. Season with salt and pepper.",
+      "importance_rank": 5,
+      "page_number": 3
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "1 whole wheat tortilla 1 cup cooked chicken breast, shredded 2 tablespoons BBQ sauce 1 4 cup shredded cheese 1 4 cup coleslaw mix Instructions: Lay the tortilla flat and spread the BBQ sauce evenly. Add the chicken, cheese, and coleslaw mix. Roll up the tortilla tightly and slice in half. Couscous Salad Ingredients: 1 cup cooked couscous 1 2 cup cherry tomatoes, halved 1 2 cucumb er, diced 1 4 cup red onion, finely chopped 1 4 cup feta cheese, crumbled 2 tablespoons olive oil 1 tablespoon lemon juice Salt and pepper to taste Instructions: In a large bowl, combine the couscous, tomatoes, cucumber, red onion, and feta cheese. Drizzle with olive oil and lemon juice. Season with salt and pepper, then toss to combine. Eggplant and Hummus Sandwich Ingredients: 2 slices whole grain bread 1 2 cup roasted eggplant slices 1 4 cup hummus 1 4 cup baby spinach 1 4 cup roasted red peppers, sliced Instructions:",
+      "importance_rank": 6,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Introduction - Page",
+      "importance_rank": 7,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Introduction - Page",
+      "importance_rank": 8,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Season chicken breasts with salt and pepper, then dredge in flour. In a larg e skillet, heat olive oil and butter over medium heat. Cook chicken until golden and cooked through, then set aside. In the same skillet, sauté mushrooms until tender. Add Marsala wine and chicken broth, simmer until reduced by half. Return chicken to the skillet and coat with the sauce. Garnish with chopped parsley and serve. Chicken Tikka Masala Ingredients: 1 pound chicken breast, cubed 1 cup yogurt 2 tablespoons lemon juice 2 cloves garlic, minced 1 teaspoon grated ginger 1 teaspoon cumin 1 teaspoon coriander 1 teaspoon turmeric 1 teaspoon paprika 1 teaspoon garam masala 1 2 cup heavy cream 1 can (14.5 ounces) diced tomatoes 1 small onion, diced 2 tablespoons vegetable oil Salt and pepper to taste Chopped cilantro for garnish Instructions: In a bowl, mix yogurt, lemon juice, minced garlic, grated ginger, cumin, coriander, turmeric, paprika, and garam masala. Marinate chicken cubes in the mixture for at least 1 hour. In a large skillet, heat vegetable oil over medium heat. Cook diced onion until translu cent. Add marinated chicken and cook until browned. Stir in diced tomatoes and simmer for 20 minutes. Add heavy cream and simmer for an additional 10 minutes. Season with salt and pepper to taste. Garnish with chopped cilantro and serve. Eggplant Parme san Ingredients:",
+      "importance_rank": 9,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "In a bowl, mix soy sauce, mirin, sugar, sake, grated ginger, and minced garlic. Marinate chicken thighs in the mixture for at least 30 minutes. Heat vegetable oil in a skillet over medium heat. Cook chicken thighs until browned and cooked through. Pour marina de into the skillet and simmer until thickened. Serve chicken over cooked rice, garnished with sliced green onions. Shrimp Scampi Ingredients: 1 pound large shrimp, peeled and deveined 4 cloves garlic, minced 1 4 cup white wine 1 4 cup chicken broth 1 4 cup lemon juice 1 4 cup butter 2 tablespoons olive oil 1 4 cup chopped parsley Salt and pepper to taste Cooked pasta for serving Instructions: Heat olive oil and butter in a large skillet over medium heat. Add minced garlic and sauté until fragrant. Add shrimp and cook until pink and opaque. Remove shrimp from the skillet and set aside. Pour white wine, chicken broth, and lemon juice into the skillet, simmer until reduced by half. Return shrimp to the skillet and toss to coat in the sauce. Season with s alt and pepper, stir in chopped parsley. Serve over cooked pasta. Beef Tacos Ingredients: 1 pound ground beef 1 small onion, diced 2 cloves garlic, minced 1 packet taco seasoning 1 2 cup water Taco shells or tortillas",
+      "importance_rank": 10,
+      "page_number": 4
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Add chopped green onions and seafood (if using). o Heat sesame oil in a pan and pour in batter. o Cook until golden on both sides. o Serve with soy sauce for dipping",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "Pan con Tomate   Ingredients : o 1 baguette o 4 tomatoes o 2 cloves garlic o 1 4 cup olive oil o 1 teaspoon salt   Instructions : o Slice baguette and toast until golden",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Dice tomatoes and cucumber, slice red onion. o Mix bread, tomatoes, cucumber, onion, and chopped basil. o Whisk olive oil, vinegar, and salt, then pour over salad. o Toss well and serve",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "Panzanella   Ingredients : o 4 cups cubed bread o 4 tomatoes o 1 cucumber o 1 small red onion o 1 4 cup basil o 1 4 cup olive oil o 2 tablespoons red wine vinegar o 1 teaspoon salt   Instructions : o Toast bread cubes until golden",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Mix yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt in a bowl. o Add paneer cubes and marinate for at least 1 hour. o Thread paneer onto skewers",
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Top with the poached or fried egg. Drizzle with olive oil and season with salt and pepper. Serve immediately",
+      "page_number": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "In a bowl, whisk together eggs, milk, salt, and pepper. Stir in cheese, bell pepper, onion, and sausage or bacon. Heat olive oil in a skillet over medium heat",
+      "page_number": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Breakfast Frittata Ingredients:   6 large eggs   1 4 cup milk   1 2 cup shredded cheese   1 4 cup diced bell pepper 1 4 cup diced onion   1 4 cup cooked sausage or bacon   Salt and pep per to taste   1 tablespoon olive oil Instructions:   Preheat oven to 350 F (175 C)",
+      "page_number": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Let cool slightly before slicing and serving",
+      "page_number": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Breakfast Bowl Ingredients:   1 2 cup cooked quinoa   1 4 cup black beans, rinsed and drained   1 4 cup diced avocado   1 4 cup cherry tomatoes, halved   1 large egg, poached or fried   Salt and pepper to taste   1 tablespoon olive oil Instructions:   In a bowl, combine quinoa, black beans, avocado, and cherry tomatoes",
+      "page_number": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Pour the egg mixture into the skillet and cook until the edges are set. Transfer the skillet to the oven and bake for 15 -20 minutes or until the eggs are set",
+      "page_number": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Place the cheese on top of the egg to melt. Assemble the sandwich with the egg, cheese, and ham or bacon between the croissant halves. Serve immediately",
+      "page_number": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Place the cheese on top of the egg to melt. Assemble the sandwich with the egg, c heese, and ham or bacon between the bagel halves. Serve immediately",
+      "page_number": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Overnight Oats Ingredients:   1 2 cup rolled oats   1 2 cup almond milk   1 tablespoon ...",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Garnish with crushed peanuts and serve",
+      "page_number": 1
+    }
+  ]
+}
